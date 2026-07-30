@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/sreenath/ecu_simulatior/output/ecu_automotive'
-relocations:     []
-...

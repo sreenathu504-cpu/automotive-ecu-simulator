@@ -1,0 +1,5 @@
+ecu_automotive
+ecu_automotive.dSYM/
+output/
+*.o
+*.exe
